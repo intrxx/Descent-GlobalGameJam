@@ -3,16 +3,6 @@
 	"EngineAssociation": "5.1",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "GGJ",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Paper2D"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
