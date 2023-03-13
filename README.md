@@ -4,3 +4,5 @@ This entire project was done in 2 days in Unreal Engine 5, I was mainly responsi
 Building Levels, UI, scripring in BP's.
 
 This project uses: UMG, Niagara System, Blueprints, Flipbooks.
+
+Project page on [Global Game Jam](https://globalgamejam.org/2023/games/descent-1) site.
